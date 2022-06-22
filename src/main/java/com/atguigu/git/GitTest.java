@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello,Git-master");
         System.out.println("hello,Git-hangstart2!");
         System.out.println("hello,push!");
+        System.out.println("hello,pull!");
     }
 }
